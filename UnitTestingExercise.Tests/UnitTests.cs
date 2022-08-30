@@ -9,6 +9,7 @@ namespace UnitTestingExercise.Tests
         [InlineData(2, 3, 5, 10)] //Add test data <-------
         public void AddTest(int num1, int num2, int num3, int expected)
         {
+            //comment to delete
             //Start Step 3 here:
 
             //Arrange
